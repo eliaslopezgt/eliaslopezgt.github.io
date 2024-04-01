@@ -4,7 +4,7 @@
 
 1. Te costó encontrar trabajo al terminar la carrera ?
 
-   En mi caso, no, porque durante la carrera estuve haciendo servicio becario en el centro de computo de la universidad y posteriormente me dieron la oportunidad de trabajar ahi, y eso me sirvió como experiencia laboral en mis siguientes trabajos, puesto que todo el tiempo que estuve estudiando, estuve trabajando y debido a esto, al egresar ya tenia experiencia laboral y esto hizo mas facil econtrar trabajo al terminar la carrera.
+   En mi caso, no, porque durante la carrera estuve haciendo servicio becario en el centro de computo de la universidad y posteriormente me dieron la oportunidad de trabajar ahi, en otras palabras siempre que estuve estudiando, estuve trabajando, y eso me sirvió como experiencia laboral. Al terminar la carrera, esta experiencia hizo mas facil econtrar trabajo.
 
 1. En qué areas se puede trabajar ?
 
