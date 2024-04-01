@@ -69,3 +69,20 @@
    Adicional a esto, cada empresa tiene sus herramientas y lenguajes que usan, mientras mas sepas o tengas una idea basica de como funcionan, mejor. Estos lenguajes y herramientas muy probablemente no forman parte de las materias en la carrera.
 
    En mi época, para aprender más tenias que invertir en libros, cursos, etc. El dia de hoy, todo está disponible en el internet, pero hay que saber buscar, porque hay mucho contenido equivocado o hecho por personas que solo buscan que la gente haga click en sus paginas y no tienen realmente calidad en sus contenidos.
+
+   ## Preguntas adicionales
+
+   1. Herramientas y lenguajes por tipo de actividad.
+
+      |Area|Herramienta|Lenguage|Ejemplos|
+      |---|---|---|---|
+      |Juegos|[Unity](https://unity.com/)|C#|Juegos de xbox y PC|
+      |Marketing y Contenido|[Vs Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/)|PHP, Javascript, CSS|Paginas web|
+      |Hardware|[Arduino](https://www.arduino.cc/), [Raspberry-Pi](https://www.raspberrypi.com/for-home/)|Python, C, otros|Proyectos de electronica, etc|
+      |Desarrollo de software en general|[Visual Studio](https://visualstudio.microsoft.com/vs/community/)|C#|Aplicaciones de todo tipo|
+
+   1. Como es eso de las actualizaciones y con ejemplos.
+
+      El desarrollo de software evoluciona muy rapido, aqui hay [un articulo](https://www.geeksforgeeks.org/evolution-of-software-development-history-phases-and-future-trends/) que habla de lo que ha ido cambiando en las decadas.
+
+   1. Mandar un articulo de [como funciona chatgpt.](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html) y de [Generative ai](https://news.mit.edu/2023/explained-generative-ai-1109).
