@@ -85,4 +85,4 @@
 
       El desarrollo de software evoluciona muy rapido, aqui hay [un articulo](https://www.geeksforgeeks.org/evolution-of-software-development-history-phases-and-future-trends/) que habla de lo que ha ido cambiando en las decadas.
 
-   1. Mandar un articulo de [como funciona chatgpt.](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html) y de [Generative ai](https://news.mit.edu/2023/explained-generative-ai-1109).
+   1. Mandar un articulo de [como funciona chatgpt.](https://www.nytimes.com/2023/03/28/technology/ai-chatbots-chatgpt-bing-bard-llm.html) y de [Generative ai](https://news.mit.edu/2023/explained-generative-ai-1109). Mas informacion de Inteligencia Artificial de [Microsoft](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/).
