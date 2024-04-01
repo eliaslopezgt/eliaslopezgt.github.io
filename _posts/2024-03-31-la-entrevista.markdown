@@ -66,7 +66,7 @@
    
 1. Si llegara a ser difícil conseguir un trabajo, como puedo complementar mis estudios para mejorar mis posibilidades de conseguir trabajo ?
 
-   Esta es una pregunta muy importante, porque la carrera de ingeniero de software no termina al egresar, al contrario, el aprendizaje apenas comienza, porque el software cambia cada seis meses bastante y en dos años, todo lo que sabes es prácticamente obsoleto. 
+   Esta es una pregunta muy importante, porque la carrera de ingeniero de software no termina al egresar, al contrario, el aprendizaje apenas comienza, porque el software cambia cada seis meses bastante y en dos años, todo lo que sabes es prácticamente obsoleto. Entonces es importante mantenerse actualizado constantemente.
    
    Adicional a esto, cada empresa tiene sus herramientas y lenguajes que usan, mientras mas sepas o tengas una idea basica de como funcionan, mejor. Estos lenguajes y herramientas muy probablemente no forman parte de las materias en la carrera.
 
