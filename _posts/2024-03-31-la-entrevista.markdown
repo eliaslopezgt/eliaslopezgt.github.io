@@ -12,7 +12,7 @@
 
 1. En qué sector trabajas tu ?
 
-   A mí siempre me ha gustado mucho programar. Mi trabajo es escribir software.
+   A mí siempre me ha gustado mucho programar. Mi trabajo es escribir software. Trabajo en el sector de productos de desarrollo de software.
 
 ## Sobre la universidad
 
