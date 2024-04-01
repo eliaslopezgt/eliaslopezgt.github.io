@@ -62,8 +62,8 @@
 
 1. Cuáles son las empresas en las que podrías trabajar ?
 
-   Principalmente en empresas que desarrollen software. Aunque también se puede trabajar en empresas donde exista un departamento de desarrollo de software aunque este software sea para uso exclusivo de dicha empresa.
-
+   Cualquier empresa en la que se desarrolle software, o donde haya infrasestructura de redes, internet.  Por ejemplo, yo he trabajado desarrollando software para empresas de indole Medica, Transporte, Petroleo, Marketing, Automotriz. 
+   
 1. Si llegara a ser difícil conseguir un trabajo, como puedo complementar mis estudios para mejorar mis posibilidades de conseguir trabajo ?
 
    Esta es una pregunta muy importante, porque la carrera de ingeniero de software no termina al egresar, al contrario, el aprendizaje apenas comienza, porque el software cambia cada seis meses bastante y en dos años, todo lo que sabes es prácticamente obsoleto. 
