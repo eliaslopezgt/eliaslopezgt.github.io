@@ -18,7 +18,7 @@
 
 1. Cual era la carga horaria de la cursada ?
 
-   Recuerdo que en la universidad llevábamos bastantes materias. En los primeros semestres, la mayoria eran de tronco común con otras carreras, pero al ir avanzando, estas materias se volvieron mas especificas a mi carrera y mucho mas interesantes.
+   Recuerdo que en la universidad llevábamos bastantes materias. En los primeros semestres, la mayoria eran de tronco común con otras carreras, pero al ir avanzando, estas materias se volvieron mas especificas a mi carrera y mucho mas interesantes aunque con mucha mas dificultad, especialzmente materias como lenguaje ensamblador, electronica, y algoritmos.
    
     Además, yo trabajaba en las mañanas, entonces tenia horario completo, además de eso, en algunos semestres estuve participando eventos de expresion artística como Festival de la Cancion y Voces en Concierto en el entonces IEST.
 
